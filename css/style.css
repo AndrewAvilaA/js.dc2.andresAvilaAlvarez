@@ -1,0 +1,14 @@
+*{
+    margin: 0 ;
+    padding: 0 ;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: peachpuff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: saddlebrown;
+}
+h1, h2, section{
+    text-align: center;
+}
